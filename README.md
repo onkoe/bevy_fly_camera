@@ -4,9 +4,9 @@
 
 This is a really basic flying camera bundle and plugin for Bevy. It's useful for testing games before you've coded your own movement system.
 
-It features both a 3d camera with Minecraft-style motion, and a 2d camera without mouse-looking.
+It features both a 3D camera with Minecraft-style motion, and a 2D camera without mouse-looking.
 
-Keybinds can be edited, but the defaults are:
+Keybindings can be edited, but the defaults are:
 
 # 3D
 
@@ -37,7 +37,7 @@ fn main() {
 
 # 2D
 
-- <kbd>W</kbd> / <kbd>A</kbd> / <kbd>S</kbd> / <kbd>D</kbd> - Move along the 2d plane
+- <kbd>W</kbd> / <kbd>A</kbd> / <kbd>S</kbd> / <kbd>D</kbd> - Move along the 2D plane
 
 ```rust
 use bevy::prelude::*;
@@ -85,3 +85,4 @@ Any PRs are also welcome, though keep in mind that the project scope is intentio
 | `0.9.0`      | `0.9.0`                   |
 | `0.10.0`     | `0.10.0`                  |
 | `0.11.0`     | `0.11.0`                  |
+| `0.12.0`     | `0.12.0`                  |
